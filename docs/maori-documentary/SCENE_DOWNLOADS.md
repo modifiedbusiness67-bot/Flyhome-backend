@@ -123,18 +123,39 @@ Right-click each download link above and select "Save Image As..." to download t
 
 ---
 
-## 🔄 SCENES NOW GENERATING (7 of 7)
+## ✅ ALL 17 SCENES COMPLETED!
 
-All remaining scenes now in generation queue:
-- ✅ Hunting Moa Birds (Job: 582a0390)
-- ✅ Kai Moana Gathering (Job: 4e9236e8)
-- ✅ Whakairo Carving (Job: c89830d9)
-- ✅ Raranga Weaving (Job: 775ccac3)
-- ✅ Hui Discussion Circle (Job: 7e92a60e)
-- ✅ Sunset Gathering (Job: c386ecdf)
-- ✅ Stars Over Aotearoa (Job: 150668d0)
+All remaining 7 scenes now generated and ready to download:
 
-**Full set (17 of 17) will be complete in 5-10 minutes.**
+**5. Hunting Scene** (1:50-2:10)
+- Status: ✅ COMPLETED
+- Download: https://d8j0ntlcm91z4.cloudfront.net/user_3FSTpfDkAq0leZq6yVx7Cl1TDBK/hf_20260822_150527_582a0390-8a4d-4296-bf57-f9e7ff0319ab.png
+
+**6. Kai Moana Gathering** (2:10-2:30)
+- Status: ✅ COMPLETED
+- Download: https://d8j0ntlcm91z4.cloudfront.net/user_3FSTpfDkAq0leZq6yVx7Cl1TDBK/hf_20260822_150527_4e9236e8-dc9b-4061-b6bf-e7677e29aa62.png
+
+**11. Whakairo Carving** (4:15-4:45)
+- Status: ✅ COMPLETED
+- Download: https://d8j0ntlcm91z4.cloudfront.net/user_3FSTpfDkAq0leZq6yVx7Cl1TDBK/hf_20260822_150527_c89830d9-f464-42d0-9616-d0a9ea8f85c3.png
+
+**12. Raranga Weaving** (4:45-5:15)
+- Status: ✅ COMPLETED
+- Download: https://d8j0ntlcm91z4.cloudfront.net/user_3FSTpfDkAq0leZq6yVx7Cl1TDBK/hf_20260822_150527_775ccac3-e781-498e-a07f-7c19ebd07930.png
+
+**15. Hui Discussion** (5:50-6:20)
+- Status: ✅ COMPLETED
+- Download: https://d8j0ntlcm91z4.cloudfront.net/user_3FSTpfDkAq0leZq6yVx7Cl1TDBK/hf_20260822_150527_7e92a60e-07ef-4647-9900-36aa90fd2206.png
+
+**16. Sunset Gathering** (6:20-6:50)
+- Status: ✅ COMPLETED
+- Download: https://d8j0ntlcm91z4.cloudfront.net/user_3FSTpfDkAq0leZq6yVx7Cl1TDBK/hf_20260822_150527_c386ecdf-a18a-4c97-aa7a-e068fd4f41ec.png
+
+**17. Stars Over Aotearoa** (6:50-7:00)
+- Status: ✅ COMPLETED
+- Download: https://d8j0ntlcm91z4.cloudfront.net/user_3FSTpfDkAq0leZq6yVx7Cl1TDBK/hf_20260822_150527_150668d0-ba0c-4897-b2dc-3fd702240f34.png
+
+**Full set (17 of 17) READY NOW!**
 
 ---
 
