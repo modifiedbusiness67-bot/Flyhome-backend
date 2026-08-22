@@ -1,6 +1,6 @@
 # Scene Downloads - 17 Cinematic Images
 
-**Status**: 8 of 17 scenes completed and ready to download  
+**Status**: 8 of 17 completed + 7 now generating (15 of 17 active)  
 **Resolution**: 2K (2048 x 1152)  
 **Format**: PNG images  
 **Source**: Higgsfield Cinema Studio 2.5
@@ -32,10 +32,12 @@
 - Download: https://d8j0ntlcm91z4.cloudfront.net/user_3FSTpfDkAq0leZq6yVx7Cl1TDBK/hf_20260822_135116_66ade78c-aef7-4895-92c0-51e0be117141.png
 
 **5. Hunting Scene** (1:50-2:10)
-- Status: ⏳ PENDING - Job ID needs regeneration
+- Status: 🔄 GENERATING (Job: 582a0390...)
+- ETA: 5-10 minutes
 
 **6. Kai Moana Gathering** (2:10-2:30)
-- Status: ⏳ PENDING - Job ID needs regeneration
+- Status: 🔄 GENERATING (Job: 4e9236e8...)
+- ETA: 5-10 minutes
 
 **7. Whare Construction** (2:30-2:45)
 - Status: ✅ COMPLETED
@@ -58,10 +60,12 @@
 - Download: https://d8j0ntlcm91z4.cloudfront.net/user_3FSTpfDkAq0leZq6yVx7Cl1TDBK/hf_20260822_135220_7de5c282-67f8-4648-9c30-f9d6ea3c170d.png
 
 **11. Whakairo Carving** (4:15-4:45)
-- Status: ⏳ PENDING - Job ID needs regeneration
+- Status: 🔄 GENERATING (Job: c89830d9...)
+- ETA: 5-10 minutes
 
 **12. Raranga Weaving** (4:45-5:15)
-- Status: ⏳ PENDING - Job ID needs regeneration
+- Status: 🔄 GENERATING (Job: 775ccac3...)
+- ETA: 5-10 minutes
 
 **13. Haka Performance** (5:15-5:30)
 - Status: ✅ COMPLETED
@@ -72,17 +76,20 @@
 - Download: https://d8j0ntlcm91z4.cloudfront.net/user_3FSTpfDkAq0leZq6yVx7Cl1TDBK/hf_20260822_135317_c1a0806c-58c2-4c5b-bef6-76e590d6a48e.png
 
 **15. Hui Discussion** (5:50-6:20)
-- Status: ⏳ PENDING - Job ID needs regeneration
+- Status: 🔄 GENERATING (Job: 7e92a60e...)
+- ETA: 5-10 minutes
 
 ---
 
 ### ACT 4: LANGUAGE & CLOSING
 
 **16. Sunset Gathering** (6:20-6:50)
-- Status: ⏳ PENDING - Job ID needs regeneration
+- Status: 🔄 GENERATING (Job: c386ecdf...)
+- ETA: 5-10 minutes
 
 **17. Stars Over Aotearoa** (6:50-7:00)
-- Status: ⏳ PENDING - Job ID needs regeneration
+- Status: 🔄 GENERATING (Job: 150668d0...)
+- ETA: 5-10 minutes
 
 ---
 
@@ -116,18 +123,18 @@ Right-click each download link above and select "Save Image As..." to download t
 
 ---
 
-## 🔄 MISSING SCENES (5-6, 11-12, 15-17)
+## 🔄 SCENES NOW GENERATING (7 of 7)
 
-The following scenes need to be regenerated with correct parameters:
-- Hunting Moa Birds
-- Kai Moana Gathering  
-- Whakairo Carving
-- Raranga Weaving
-- Hui Discussion Circle
-- Sunset Gathering
-- Stars Over Aotearoa
+All remaining scenes now in generation queue:
+- ✅ Hunting Moa Birds (Job: 582a0390)
+- ✅ Kai Moana Gathering (Job: 4e9236e8)
+- ✅ Whakairo Carving (Job: c89830d9)
+- ✅ Raranga Weaving (Job: 775ccac3)
+- ✅ Hui Discussion Circle (Job: 7e92a60e)
+- ✅ Sunset Gathering (Job: c386ecdf)
+- ✅ Stars Over Aotearoa (Job: 150668d0)
 
-These can be regenerated through Higgsfield's interface or re-queued via API.
+**Full set (17 of 17) will be complete in 5-10 minutes.**
 
 ---
 
